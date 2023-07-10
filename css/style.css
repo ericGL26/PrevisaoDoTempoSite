@@ -1,0 +1,103 @@
+body {
+    background: linear-gradient(to bottom, #0099ff 10%, #f5f5f5 10%);
+}
+  
+* {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+.titulo {
+    margin-left: 30px;
+    color: rgb(4, 4, 167);
+}
+
+.div_humidade {
+    background-color: cyan;
+    height: 100px;
+    width: 300px;
+}
+
+.div_pressao {
+    background-color: cyan;
+    height: 100px;
+    width: 300px;
+}
+
+.div_tempmax {
+    background-color: cyan;
+    height: 100px;
+    width: 300px;
+}
+
+.div_tempmin {
+    background-color: cyan;
+    height: 100px;
+    width: 300px;
+}
+
+.div_temp {
+    background-color: cyan;
+    height: 100px;
+    width: 300px;
+}
+
+.divsvg {
+    display: flex;
+    position: flex;
+    height: 360px;
+}
+
+.conteiner {
+    display: flex;
+    background-color: red;
+    flex-direction: row;
+}
+
+.conteiner-previsao{
+    display: flex;
+    width: 100%;
+    background-color: #cccccc;
+}
+
+.valor-ceu {
+    background-color: #cccccc;
+    height: 100px;
+    width: 300px;
+    margin-left: 170px;
+}
+
+.icon-ceu {
+    background-color: #cccccc;
+    height: 100px;
+    width: 300px;
+}
+
+.nas-sol {
+    background-color: #cccccc;
+    height: 100px;
+    width: 300px;
+}
+
+
+.por-sol {
+    background-color: #cccccc;
+    height: 100px;
+    width: 300px;
+}
+
+.div_icon {
+    background-color: cyan;
+    height: 100px;
+    width: 300px;
+    margin-left: 950px;
+    border-radius: 20px;
+}
+
+.icon_ceu {
+    height: 100px;
+    width: 100px;
+}
+
+.fotoazulandulada {
+    display: flex;
+}
